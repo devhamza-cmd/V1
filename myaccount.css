@@ -285,10 +285,7 @@ padding: 0  10px;
     .search {
         width: 300px;
        }
-    .post{
-        width: 80vw;
-       
-    }
+    
 }
 @media only screen and (min-width: 561px) {
    .learn ,.fs5{

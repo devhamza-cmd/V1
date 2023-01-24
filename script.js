@@ -14,7 +14,7 @@ function checkLogin() {
     newDiv.classList.add("firstpost");
     newDiv.style.marginTop = "40px";
     newDiv.style.width = "100%";
-    newDiv.style.height = "25%";
+    newDiv.style.height = "150px";
     newDiv.style.boxShadow = "3px 3px 10px 3px #dddddd";
     newDiv.style.borderRadius = "20px";
     newDiv.style.padding = "20px";
